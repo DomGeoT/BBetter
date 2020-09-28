@@ -18,5 +18,3 @@ def setupLogin(loginDir: str):
 
     return trading
 
-
-setupLogin("C:/Users/domt/Documents/BBetter/")
